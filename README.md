@@ -6,4 +6,4 @@
 * вижу
 * слышу
 
-!["Foto"] (/home/maksim/Документы/Курс Java/ResumeGit/img/foto.JPEG "Foto")
+!["Foto"](/img/foto.JPEG "Foto")
