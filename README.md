@@ -6,4 +6,4 @@
 * вижу
 * слышу
 
-!["Foto"](/img/foto.JPEG "Foto")
+!["Foto"](https://github.com/Komakc/resume/blob/master/img/foto.jpeg "Foto")
