@@ -4,5 +4,6 @@ release/
 debug/
 *.log
 *~
-thumbs.db
+Thumbs.db
 .DS_Store
+.idea/
